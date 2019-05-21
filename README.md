@@ -1,2 +1,1 @@
-# LJXYG
-none
+intrested in opencv and Singlechip.
